@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-nav {
+  background: aqua;
+}
+
+.link {
+  color: white;
+  /* text-decoration: none; */
+  text-decoration: none;
+}
+
+.carousel-inner {
+  /* background: tomato; */
+}
+
+.carousel-item img {
+  width: 500px;
+  height: 300px;
+  /* object-fit: contain; */
+}
+
+.container-carousel {
+  margin-bottom: 20px;
+}
+
+.games ul {
+  margin-left: 20px;
+  list-style-type: none;
+}
+
+li {
+  font-size: 35px;
+  font-family: garamond;
+}
+
+.card {
+  /* background: lemonchiffon; */
+  /* width: 50%; */
+  text-align: center;
+}
+
+.card img {
+  width: 50%;
+}
+
+.cards-wrapper {
+  column-gap: 8px;
+}
+
+/* 
+.card img {
+  width: 300px;
+  height: 300px;
+  
+} */
+
+.card-body {
+  background: #d8d7d7;
+  text-align: center;
+  color: black;
+}
+
+p a,
+p {
+  text-decoration: none;
+  color: black;
+}
+
+.topup ul {
+  list-style-type: decimal;
+}
+
+.denomActive,
+.paymentActive {
+  background: #0dcaf0;
+}
+
+.container-payment img {
+  /* background: #000; */
+  width: 100px;
+  /* width: 102.4px; */
+  /* height: 102.4px; */
+  height: 100px;
+  /* object-fit: contain; */
+}
+
+.payments {
+  /* background: tomato; */
+  font-size: larger;
+  font-weight: bold;
+}
